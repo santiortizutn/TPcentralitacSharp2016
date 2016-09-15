@@ -57,6 +57,14 @@ namespace CentralitaHerencia
         {
             StringBuilder nuevoSB;
             nuevoSB = new StringBuilder();
+
+            nuevoSB.AppendLine("");
+            nuevoSB.AppendLine(">Detalles de llamada: ");
+            nuevoSB.AppendLine("Duracion: " + this._duracion + " seg");
+            nuevoSB.AppendLine("Destino: " + this._nroDestino);
+            nuevoSB.AppendLine("Origen: " + this._nroOrigen);
+            
+            Console.Write(nuevoSB);
         }
 
 

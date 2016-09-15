@@ -4,3 +4,9 @@ D:\visual studio 2012\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaH
 D:\visual studio 2012\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
 D:\visual studio 2012\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
 D:\visual studio 2012\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\visual studio 2012\RepositorioGit\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\visual studio 2012\RepositorioGit\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\visual studio 2012\RepositorioGit\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\visual studio 2012\RepositorioGit\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\visual studio 2012\RepositorioGit\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\visual studio 2012\RepositorioGit\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache

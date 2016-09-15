@@ -44,15 +44,16 @@ namespace CentralitaHerencia
             StringBuilder nuevoSB;
             nuevoSB = new StringBuilder();
 
-            nuevoSB.AppendLine("Duracion: " + this._duracion);
-            nuevoSB.AppendLine("Destino: " + this._nroDestino);
-            nuevoSB.AppendLine("Origen: " + this._nroOrigen);
-            nuevoSB.AppendLine("Costo Llamada: " + this.CostoLlamada);
+            base.Mostrar();
+            nuevoSB.AppendLine("Costo Llamada: $" + this.CostoLlamada);
+            nuevoSB.AppendLine("Tipo: Local");
+            nuevoSB.AppendLine("");
+            Console.Write(nuevoSB);
         }
 
         private float CalcularCosto()
         {
-            return 0;
+            return (this._costo * this._duracion) / 60;
         }
 
         #endregion
